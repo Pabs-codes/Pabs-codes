@@ -4,4 +4,4 @@
 - 🌐 Check out my portfolio: [Portfolio](https://pabs-portfolio.netlify.app/)
 - 📫 How to reach me: [Email](mailto:Pabscode@gmail.com) or [LinkedIn](https://www.linkedin.com/in/pabasara-navod/)
 
-
+![Profile Image](https://github.com/Pabs-codes/Pabs-codes/blob/main/pabsgit.png)
