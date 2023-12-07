@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on [open source projects](#) and [coding challenges](#)
 - 📫 How to reach me: [Email](mailto:your.email@example.com) or [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/)
 
-![Profile Image](https://your-image-url.com/your-image.jpg)
-![Learning Progress](https://img.shields.io/badge/Learning-JavaScript-brightgreen)
+[![Profile Image](https://your-image-url.com/your-image.jpg)
+![Learning Progress](https://img.shields.io/badge/Learning-JavaScript-brightgreen)](https://github.com/Pabs-codes/Pabs-codes/blob/main/Stenco%20itc.jpg)https://github.com/Pabs-codes/Pabs-codes/blob/main/Stenco%20itc.jpg
